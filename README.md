@@ -1,2 +1,4 @@
 
-tic-tac-toe : first game I created with react, for live demo Go [here](https://g-tic-tac-toe.herokuapp.com/) 
+# Tic Tac Toe App  with React 
+
+A simple tic tac toe game. It is created for learning purposes , live demo Go [here](https://assiachemlali.github.io/tic-tac-toe/) 
